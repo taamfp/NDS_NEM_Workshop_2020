@@ -2,4 +2,4 @@
 ## Workshop program for data manipulation, visualization, and introduction to Machine Learning.
 
 
-# Hello there! Are you ready for some data knowledge? <img src="data.gif" width="40px">
+# Hello there! Are you ready for some data knowledge? <img src="/Images/data.gif" width="40px">
