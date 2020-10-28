@@ -3,6 +3,6 @@
 
 <p align="center">
   Hello there! Are you ready for some data knowledge? </p>
-  <img src="/Images/data.gif" width="500px" alt="centered image">
+  <img src="/Images/data.gif" width="700px" >
 </p>
 
