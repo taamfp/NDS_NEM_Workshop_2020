@@ -2,7 +2,7 @@
 ## Data manipulation, visualization, and introduction to Machine Learning.
 
 <p align="center">
-  Hello there! Are you ready for some data knowledge? 
+  <p style="font-size:100px"> Hello there! Are you ready for some data knowledge?  </p>
   <img src="/Images/data.gif" width="700px" >
 </p>
 
