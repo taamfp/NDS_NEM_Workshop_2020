@@ -5,5 +5,7 @@
 ### Hello there! Are you ready for some data knowledge? 👨‍💻
 
 <p align="center" style="font-size:700px">
-  <img src="/Images/data.gif" width="px" >
+  <img src="/Images/data.gif" width="1000px" >
 </p>
+
+#### Welcome to the NDS and NEM Workshop 2020!
