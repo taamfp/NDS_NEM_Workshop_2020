@@ -1,4 +1,4 @@
-# NDS and NEM Workshop_2020
+# NDS and NEM Workshop 2020
 ## Data manipulation, visualization, and introduction to Machine Learning.
 
 
