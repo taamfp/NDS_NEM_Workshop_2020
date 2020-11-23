@@ -21,8 +21,8 @@ In this workshop, you will have a first glimpse on the following topics:
 
 The topics are on different branches of this repository. You can change it any time in the following example.
 
-<p align="center" style="font-size:400px">
-  <img src="/Images/Example_Branch.PNG" width="400px" >
+<p align="center" style="font-size:300px">
+  <img src="/Images/Example_Branch.PNG" width="300px" >
 </p>
 
 The branches are structured by the following:
@@ -30,6 +30,9 @@ The branches are structured by the following:
 - SQL (SQL and Databases)
 - Antonio (Data Manipulation and Pandas)
 - main (Introduction to Machine Learning)
+
+In the SQL section, go to the "Interacting with DataBases" folder, to acess the learning and exercises material (.ipynb files);
+To acess the "Data Manipulation and Pandas", in Antonio branch, go to the "Pandas Initial" folder.
 
 Go ahead and explore at your pace.
 
