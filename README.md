@@ -9,3 +9,13 @@
 </p>
 
 #### Welcome to the NDS and NEM Workshop 2020!
+
+<p>
+In this workshop, you will have a first glimpse on the following topics:
+</p>
+
+- Databases and SQL <img src="https://img.shields.io/badge/Database-SQL-blue">
+- Data Visualization and Manipulation <img src="https://img.shields.io/badge/Language-Python-yellow"> <img src="https://img.shields.io/badge/Tool-matplotlib-green">  <img src="https://img.shields.io/badge/Tool-Pandas-yellowgreen"> 
+- Introduction to Machine Learning :robot:
+
+Enjoy the workshop! :wink:
