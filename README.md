@@ -35,7 +35,7 @@ The branches are structured by the following:
 You can acess the learning material in the following links:
 
 Data Manipulation and Pandas
--https://colab.research.google.com/github/taamfp/NDS_NEM_Workshop_2020/blob/main/workshop_data-analysis.ipynb
+- https://colab.research.google.com/github/taamfp/NDS_NEM_Workshop_2020/blob/main/workshop_data-analysis.ipynb
 
 Intro to Machine Learning
 - https://colab.research.google.com/github/taamfp/NDS_NEM_Workshop_2020/blob/main/Intro%20to%20Machine%20Learning.ipynb
