@@ -21,6 +21,12 @@ In this workshop, you will have a first glimpse on the following topics:
 
 You can acess the learning material in the following links:
 
+Databases and SQL
+- https://colab.research.google.com/github/taamfp/NDS_NEM_Workshop_2020/blob/main/DataBases%20%26%20SQL/Learning%20Notebook%20-%20Relational%20Databases%20and%20SQL.ipynb
+
+Databases and SQL - Exercises
+- https://colab.research.google.com/github/taamfp/NDS_NEM_Workshop_2020/blob/main/DataBases%20%26%20SQL/Exercises%20Notebook.ipynb
+
 Data Manipulation Pandas
 - https://colab.research.google.com/github/taamfp/NDS_NEM_Workshop_2020/blob/main/workshop_data-analysis.ipynb
 
