@@ -19,19 +19,6 @@ In this workshop, you will have a first glimpse on the following topics:
 - Data Visualization and Manipulation <img src="https://img.shields.io/badge/Language-Python-yellow"> <img src="https://img.shields.io/badge/Tool-matplotlib-green">  <img src="https://img.shields.io/badge/Tool-Pandas-yellowgreen"> 
 - Introduction to Machine Learning :robot:
 
-The topics are on different branches of this repository. You can change it any time in the following example.
-
-<p align="center" style="font-size:300px">
-  <img src="/Images/Example_Branch.PNG" width="300px" >
-</p>
-
-
-The branches are structured by the following:
-
-- SQL (SQL and Databases)
-- Antonio (Data Manipulation and Pandas)
-- main (Introduction to Machine Learning)
-
 You can acess the learning material in the following links:
 
 Data Manipulation Pandas
