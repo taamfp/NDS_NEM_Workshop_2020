@@ -31,8 +31,13 @@ The branches are structured by the following:
 - Antonio (Data Manipulation and Pandas)
 - main (Introduction to Machine Learning)
 
-In the SQL section, go to the "Interacting with DataBases" folder, to acess the learning and exercises material (.ipynb files);
-To acess the "Data Manipulation and Pandas", in Antonio branch, go to the "Pandas Initial" folder.
+You can acess the learning material in the following links:
+
+Intro to Machine Learning
+- https://colab.research.google.com/github/taamfp/NDS_NEM_Workshop_2020/blob/main/Intro%20to%20Machine%20Learning.ipynb
+
+Intro to Machine Learning - Exercises
+- https://colab.research.google.com/github/taamfp/NDS_NEM_Workshop_2020/blob/main/Intro%20to%20Machine%20Learning%20-%20Exercises.ipynb#scrollTo=9h4WZTLQdzIt
 
 Go ahead and explore at your pace.
 
