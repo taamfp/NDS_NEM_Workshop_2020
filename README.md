@@ -23,6 +23,6 @@ The topics are on different branches of this repository. Go ahead and explore at
 
 Enjoy the workshop! :wink:
 
-<p align="center" style="font-size:700px">
-  <img src="/Images/programming.gif" width="700px" >
+<p align="center" style="font-size:500px">
+  <img src="/Images/programming.gif" width="500px" >
 </p>
