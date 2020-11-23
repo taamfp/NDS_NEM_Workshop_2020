@@ -25,6 +25,7 @@ The topics are on different branches of this repository. You can change it any t
   <img src="/Images/Example_Branch.PNG" width="300px" >
 </p>
 
+
 The branches are structured by the following:
 
 - SQL (SQL and Databases)
@@ -32,6 +33,9 @@ The branches are structured by the following:
 - main (Introduction to Machine Learning)
 
 You can acess the learning material in the following links:
+
+Data Manipulation and Pandas
+-https://colab.research.google.com/github/taamfp/NDS_NEM_Workshop_2020/blob/main/workshop_data-analysis.ipynb
 
 Intro to Machine Learning
 - https://colab.research.google.com/github/taamfp/NDS_NEM_Workshop_2020/blob/main/Intro%20to%20Machine%20Learning.ipynb
