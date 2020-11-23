@@ -22,7 +22,7 @@ In this workshop, you will have a first glimpse on the following topics:
 The topics are on different branches of this repository. You can change it any time in the following example.
 
 <p align="center" style="font-size:700px">
-  <img src="/Images/Example_Branch.png" width="700px" >
+  <img src="/Images/Example_Branch.PNG" width="700px" >
 </p>
 
 The branches are structured by the following:
