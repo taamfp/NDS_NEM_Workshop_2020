@@ -21,20 +21,33 @@ In this workshop, you will have a first glimpse on the following topics:
 
 You can acess the learning material in the following links:
 
-Databases and SQL
+## Databases and SQL
+
+### Learning Notebook
 - https://colab.research.google.com/github/taamfp/NDS_NEM_Workshop_2020/blob/main/DataBases%20%26%20SQL/Learning%20Notebook%20-%20Relational%20Databases%20and%20SQL.ipynb
 
-Databases and SQL - Exercises
+### Exercises Notebook
 - https://colab.research.google.com/github/taamfp/NDS_NEM_Workshop_2020/blob/main/DataBases%20%26%20SQL/Exercises%20Notebook.ipynb
 
-Data Manipulation Pandas
-- https://colab.research.google.com/github/taamfp/NDS_NEM_Workshop_2020/blob/main/workshop_data-analysis.ipynb
+## Data Manipulation Pandas
 
-Intro to Machine Learning
-- https://colab.research.google.com/github/taamfp/NDS_NEM_Workshop_2020/blob/main/Intro%20to%20Machine%20Learning.ipynb
+- https://colab.research.google.com/github/taamfp/NDS_NEM_Workshop_2020/blob/main/Pandas%20-%20Data%20Analysis/workshop_data-analysis.ipynb
 
-Intro to Machine Learning - Exercises
-- https://colab.research.google.com/github/taamfp/NDS_NEM_Workshop_2020/blob/main/Intro%20to%20Machine%20Learning%20-%20Exercises.ipynb#scrollTo=9h4WZTLQdzIt
+## Intro to Machine Learning
+
+### Learning Notebook
+- https://colab.research.google.com/github/taamfp/NDS_NEM_Workshop_2020/blob/main/Intro%20to%20Machine%20Learning/Intro%20to%20Machine%20Learning.ipynb
+
+### Exercises Notebook
+- https://colab.research.google.com/github/taamfp/NDS_NEM_Workshop_2020/blob/main/Intro%20to%20Machine%20Learning/Intro%20to%20Machine%20Learning%20-%20Exercises.ipynb
+
+## Basic stats and Data Visualization
+
+### Learning Notebook
+- https://colab.research.google.com/github/taamfp/NDS_NEM_Workshop_2020/blob/main/Basic%20Stats%20%26%20Data%20Visualization/Learning%20Notebook%20BS%20%26%20DV.ipynb
+
+### Exercises Notebook
+- https://colab.research.google.com/github/taamfp/NDS_NEM_Workshop_2020/blob/main/Basic%20Stats%20%26%20Data%20Visualization/Exercise%20Notebook%20BS%20%26%20DV.ipynb
 
 Go ahead and explore at your pace.
 
