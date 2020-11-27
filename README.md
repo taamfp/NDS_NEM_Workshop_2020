@@ -31,7 +31,15 @@ You can acess the learning material in the following links:
 
 ## Data Manipulation Pandas
 
+
+### Intro
 - https://colab.research.google.com/github/taamfp/NDS_NEM_Workshop_2020/blob/main/Pandas%20-%20Data%20Analysis/workshop_data-analysis.ipynb
+
+### Subsetting data - Learning Notebook
+- https://colab.research.google.com/github/taamfp/NDS_NEM_Workshop_2020/blob/main/Pandas%20-%20Data%20Analysis/Learning%20notebook%20-%20(Subsetting%20data).ipynb
+
+### Subsetting data - Exercises Notebook
+- https://colab.research.google.com/github/taamfp/NDS_NEM_Workshop_2020/blob/main/Pandas%20-%20Data%20Analysis/Exercise%20notebook.ipynb#scrollTo=n5FVn2Gfdxeh
 
 ## Intro to Machine Learning
 
