@@ -49,6 +49,10 @@ You can acess the learning material in the following links:
 ### Exercises Notebook
 - https://colab.research.google.com/github/taamfp/NDS_NEM_Workshop_2020/blob/main/Intro%20to%20Machine%20Learning/Intro%20to%20Machine%20Learning%20-%20Exercises.ipynb
 
+### Solutions Notebook
+
+- https://colab.research.google.com/github/taamfp/NDS_NEM_Workshop_2020/blob/main/Intro%20to%20Machine%20Learning/Exercises%20Solution%20Notebook.ipynb
+
 ## Basic stats and Data Visualization
 
 ### Learning Notebook
