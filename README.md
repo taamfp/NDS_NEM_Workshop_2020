@@ -61,6 +61,9 @@ You can acess the learning material in the following links:
 ### Exercises Notebook
 - https://colab.research.google.com/github/taamfp/NDS_NEM_Workshop_2020/blob/main/Basic%20Stats%20%26%20Data%20Visualization/Exercise%20Notebook%20BS%20%26%20DV.ipynb
 
+### Solutions Notebook
+- https://colab.research.google.com/github/taamfp/NDS_NEM_Workshop_2020/blob/main/Basic%20Stats%20%26%20Data%20Visualization/Exercise%20Notebook%20BS%20%26%20DV%20-%20Solved.ipynb
+
 Go ahead and explore at your pace.
 
 Enjoy the workshop! :wink:
